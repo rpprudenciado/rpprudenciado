@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rpprudenciado&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/rpprudenciado)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpprudenciado/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-4C0827?style=flat-square&logo=googlechrome&logoColor=white)](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/)
 [![Email](https://img.shields.io/badge/Email-prudenciadorhonamae%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prudenciadorhonamae@gmail.com)
 
