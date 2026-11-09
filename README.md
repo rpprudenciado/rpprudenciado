@@ -43,7 +43,6 @@
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Tools, Version Control & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -52,7 +51,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -62,21 +60,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[🧭 Navig8.tech](https://github.com/rpprudenciado/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions)** | HTML5, CSS3, JavaScript ES6+ | Interactive career roadmap platform helping IT students navigate 14+ specialization tracks with transparent job-mapping and progress trails. |
 | **[👤 Personal Portfolio](https://github.com/rpprudenciado/Personal-Portfolio-Web-Application)** | HTML5, CSS3, Flexbox | Multi-page responsive portfolio demonstrating modern layout systems, CSS Box Model, and typography. |
+| **[🧭 Navig8.tech](https://github.com/rpprudenciado/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions)** | HTML5, CSS3, JavaScript ES6+ | Interactive career roadmap platform helping IT students navigate 14+ specialization tracks with transparent job-mapping and progress trails. |
 | **[🏍️ MotoPulse](https://github.com/rpprudenciado/Motorcycle-Maintenance-Tracker-and-Alert-System)** | Python 3, Heapq, Stacks, Hash Tables | Motorcycle maintenance tracker utilizing algorithmic data structures (Min-Heaps for urgency scoring, Stacks for action reversal). |
 | **[🏦 Secure Banking System](https://github.com/rpprudenciado/Bank-Secure-Banking-System)** | Java, JOptionPane, OOP | Desktop banking simulation featuring transaction management, security lockouts, and administrative controls. |
-
----
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rpprudenciado&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rhona-Mae's GitHub Stats" height="175"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rpprudenciado&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="175"/>
-
-</div>
 
 ---
 
