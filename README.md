@@ -8,7 +8,7 @@
 <br>
 
 **2nd Year Information Technology Student @ Asia Pacific College, Philippines <sup>PH</sup>**  
-*Specializing in Cloud Computing & Systems Architecture*
+*Specializing in Cloud Computing*
 
 <br>
 
