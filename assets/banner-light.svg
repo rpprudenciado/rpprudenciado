@@ -1,25 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 120" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 130" width="100%" height="100%">
   <defs>
-    <!-- Perfectly Seamless Ambient Glow (No Ellipse Edges, True Zero Falloff) -->
-    <radialGradient id="floating-glow-light" cx="50%" cy="50%" r="48%">
+    <!-- Extended Full-Height Radial Glow for Light Mode -->
+    <radialGradient id="floating-glow-light" cx="50%" cy="51%" r="78%">
       <stop offset="0%" stop-color="#7A1240" stop-opacity="0.22"/>
-      <stop offset="30%" stop-color="#7A1240" stop-opacity="0.14"/>
-      <stop offset="55%" stop-color="#6B0E37" stop-opacity="0.06"/>
-      <stop offset="75%" stop-color="#6B0E37" stop-opacity="0.02"/>
-      <stop offset="95%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#6B0E37" stop-opacity="0.15"/>
+      <stop offset="65%" stop-color="#7A1240" stop-opacity="0.07"/>
+      <stop offset="85%" stop-color="#6B0E37" stop-opacity="0.02"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <!-- Full Canvas Rect Base: Zero visible outline or edges anywhere -->
-  <rect width="850" height="120" fill="url(#floating-glow-light)"/>
+  <!-- Full Canvas Rect Base: Zero visible outline, full vertical reach -->
+  <rect width="850" height="130" fill="url(#floating-glow-light)"/>
 
   <!-- Main Name Typography -->
-  <text x="425" y="46" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" letter-spacing="0.5" fill="#100007">Rhona-Mae Prudenciado</text>
+  <text x="425" y="48" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" letter-spacing="0.5" fill="#100007">Rhona-Mae Prudenciado</text>
 
-  <!-- Aspiring Cloud Architect (Centered & Tight) -->
-  <text x="425" y="72" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#4C0827">ASPIRING CLOUD ARCHITECT</text>
+  <!-- Aspiring Cloud Architect (Encompassed by Glow) -->
+  <text x="425" y="76" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#4C0827">ASPIRING CLOUD ARCHITECT</text>
 
-  <!-- Asia Pacific College Manila -->
-  <text x="425" y="92" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#2D0605" fill-opacity="0.75">ASIA PACIFIC COLLEGE · MANILA, PH</text>
+  <!-- Asia Pacific College Manila (Encompassed by Glow) -->
+  <text x="425" y="98" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#2D0605" fill-opacity="0.8">ASIA PACIFIC COLLEGE · MANILA, PH</text>
 </svg>
