@@ -1,14 +1,19 @@
 <div align="center">
 
-# Rhona-Mae Prudenciado
-
-**Information Technology Undergraduate · Asia Pacific College**  
-*Aspiring Cloud Solutions Architect · Systems & Web Development*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Rhona-Mae Prudenciado" width="100%">
+</picture>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpprudenciado/)
+**2nd Year Information Technology Student @ Asia Pacific College, Philippines PH**  
+*Specializing in Cloud Computing & Systems Architecture*
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-4C0827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpprudenciado/)
 [![Email](https://img.shields.io/badge/Email-prudenciadorhonamae%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prudenciadorhonamae@gmail.com)
 
 </div>
@@ -27,9 +32,12 @@ I am an Information Technology student at **Asia Pacific College (School of Comp
 
 ---
 
-## Technical Toolbelt
+## Technical Stack
+
+<div align="center">
 
 ### Programming Languages
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -37,7 +45,10 @@ I am an Information Technology student at **Asia Pacific College (School of Comp
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
+<br>
+
 ### Cloud, Systems & Tools
+
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -46,9 +57,11 @@ I am an Information Technology student at **Asia Pacific College (School of Comp
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+</div>
+
 ---
 
-## Selected Work
+## Featured Projects & Systems
 
 ### Web Applications & UI/UX
 | Project | Stack | Description | Links |
