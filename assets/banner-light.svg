@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 130" width="100%" height="100%">
   <defs>
-    <!-- Extended Full-Height Radial Glow for Light Mode -->
-    <radialGradient id="floating-glow-light" cx="50%" cy="51%" r="78%">
-      <stop offset="0%" stop-color="#7A1240" stop-opacity="0.22"/>
-      <stop offset="35%" stop-color="#6B0E37" stop-opacity="0.15"/>
-      <stop offset="65%" stop-color="#7A1240" stop-opacity="0.07"/>
-      <stop offset="85%" stop-color="#6B0E37" stop-opacity="0.02"/>
+    <!-- High-Saturation 'Brightly Darker' Wine Glow for Light Mode -->
+    <radialGradient id="floating-glow-light" cx="425" cy="62" r="110" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.6 0 0 1 -680 0)">
+      <stop offset="0%" stop-color="#8A1040" stop-opacity="0.38"/>
+      <stop offset="25%" stop-color="#8A1040" stop-opacity="0.26"/>
+      <stop offset="55%" stop-color="#6B0E37" stop-opacity="0.14"/>
+      <stop offset="80%" stop-color="#4C0827" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <!-- Full Canvas Rect Base: Zero visible outline, full vertical reach -->
+  <!-- Full Canvas Rect Base: Seamless Zero-Edge Falloff -->
   <rect width="850" height="130" fill="url(#floating-glow-light)"/>
 
   <!-- Main Name Typography -->
   <text x="425" y="48" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" letter-spacing="0.5" fill="#100007">Rhona-Mae Prudenciado</text>
 
-  <!-- Aspiring Cloud Architect (Encompassed by Glow) -->
+  <!-- Aspiring Cloud Architect -->
   <text x="425" y="76" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#4C0827">ASPIRING CLOUD ARCHITECT</text>
 
-  <!-- Asia Pacific College Manila (Encompassed by Glow) -->
+  <!-- Asia Pacific College Manila -->
   <text x="425" y="98" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#2D0605" fill-opacity="0.8">ASIA PACIFIC COLLEGE · MANILA, PH</text>
 </svg>
