@@ -60,9 +60,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| **[🏍️ Throttle Therapy](https://github.com/rpprudenciado/Throttle-Therapy-Motorbike-Travel-Blog)** | HTML5, CSS Grid, Flexbox | Responsive multi-page motorbike travel blog and trail guide platform with modal galleries and route metadata. |
 | **[👤 Personal Portfolio](https://github.com/rpprudenciado/Personal-Portfolio-Web-Application)** | HTML5, CSS3, Flexbox | Multi-page responsive portfolio demonstrating modern layout systems, CSS Box Model, and typography. |
 | **[🧭 Navig8.tech](https://github.com/rpprudenciado/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions)** | HTML5, CSS3, JavaScript ES6+ | Interactive career roadmap platform helping IT students navigate 14+ specialization tracks with transparent job-mapping and progress trails. |
-| **[🏍️ MotoPulse](https://github.com/rpprudenciado/Motorcycle-Maintenance-Tracker-and-Alert-System)** | Python 3, Heapq, Stacks, Hash Tables | Motorcycle maintenance tracker utilizing algorithmic data structures (Min-Heaps for urgency scoring, Stacks for action reversal). |
+| **[🔧 MotoPulse](https://github.com/rpprudenciado/Motorcycle-Maintenance-Tracker-and-Alert-System)** | Python 3, Heapq, Stacks, Hash Tables | Motorcycle maintenance tracker utilizing algorithmic data structures (Min-Heaps for urgency scoring, Stacks for action reversal). |
 | **[🏦 Secure Banking System](https://github.com/rpprudenciado/Bank-Secure-Banking-System)** | Java, JOptionPane, OOP | Desktop banking simulation featuring transaction management, security lockouts, and administrative controls. |
 
 ---
