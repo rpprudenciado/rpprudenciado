@@ -1,35 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 155" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="100%" height="100%">
   <defs>
     <!-- Extended Floating Glow for Light Mode -->
-    <radialGradient id="floating-glow-light" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#4C0827" stop-opacity="0.12"/>
-      <stop offset="35%" stop-color="#E6EBE0" stop-opacity="0.55"/>
+    <radialGradient id="floating-glow-light" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#4C0827" stop-opacity="0.14"/>
+      <stop offset="35%" stop-color="#E6EBE0" stop-opacity="0.6"/>
       <stop offset="70%" stop-color="#F4F6F1" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
-
-    <!-- Reliable UserSpaceOnUse Gradient for Horizontal Dashed Line -->
-    <linearGradient id="dash-gradient-light" x1="280" y1="0" x2="570" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#4C0827" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#4C0827" stop-opacity="0.85"/>
-      <stop offset="50%" stop-color="#200116" stop-opacity="0.95"/>
-      <stop offset="80%" stop-color="#4C0827" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#4C0827" stop-opacity="0"/>
-    </linearGradient>
   </defs>
 
-  <!-- Ambient Floating Glow (Expanded to fully embrace Name and Subtitles) -->
-  <ellipse cx="425" cy="78" rx="400" ry="74" fill="url(#floating-glow-light)"/>
+  <!-- Ambient Wide-Range Floating Glow (Covers Name and Both Subtitle Lines) -->
+  <ellipse cx="425" cy="70" rx="420" ry="68" fill="url(#floating-glow-light)"/>
 
   <!-- Main Name Typography -->
-  <text x="425" y="52" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5" fill="#100007">Rhona-Mae Prudenciado</text>
+  <text x="425" y="48" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5" fill="#100007">Rhona-Mae Prudenciado</text>
 
-  <!-- Centered Dashed Accent Divider Line -->
-  <line x1="290" y1="72" x2="560" y2="72" stroke="url(#dash-gradient-light)" stroke-width="2" stroke-dasharray="8,5" stroke-linecap="round"/>
+  <!-- High-Contrast Centered Dashed Divider Line (Crisp Solid SVG Path) -->
+  <path d="M 285 68 L 565 68" stroke="#4C0827" stroke-opacity="0.75" stroke-width="2.2" stroke-dasharray="10 6" stroke-linecap="round"/>
 
   <!-- Aspiring Cloud Architect -->
-  <text x="425" y="96" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#4C0827">ASPIRING CLOUD ARCHITECT</text>
+  <text x="425" y="90" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#4C0827">ASPIRING CLOUD ARCHITECT</text>
 
   <!-- Asia Pacific College Manila -->
-  <text x="425" y="115" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#2D0605" fill-opacity="0.75">ASIA PACIFIC COLLEGE · MANILA, PH</text>
+  <text x="425" y="108" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#2D0605" fill-opacity="0.8">ASIA PACIFIC COLLEGE · MANILA, PH</text>
 </svg>
