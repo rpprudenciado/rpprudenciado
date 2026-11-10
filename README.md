@@ -7,14 +7,14 @@
 
 <br>
 
-**2nd Year Information Technology Student @ Asia Pacific College, Philippines PH**  
+**2nd Year Information Technology Student @ Asia Pacific College, Philippines <sup>PH</sup>**  
 *Specializing in Cloud Computing & Systems Architecture*
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-4C0827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpprudenciado/)
-[![Email](https://img.shields.io/badge/Email-prudenciadorhonamae%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prudenciadorhonamae@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-4C0827?style=for-the-badge)](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rpprudenciado/)
+[![Email](https://img.shields.io/badge/Email-prudenciadorhonamae%40gmail.com-EA4335?style=for-the-badge)](mailto:prudenciadorhonamae@gmail.com)
 
 </div>
 
@@ -47,7 +47,7 @@ I am an Information Technology student at **Asia Pacific College (School of Comp
 
 <br>
 
-### Cloud, Systems & Tools
+### Cloud, Systems, & Tools
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
@@ -66,15 +66,15 @@ I am an Information Technology student at **Asia Pacific College (School of Comp
 ### Web Applications & UI/UX
 | Project | Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
-| **Throttle Therapy** | HTML5, CSS Grid, Flexbox | Motorbike travel blog featuring responsive route guides, elevation cards, and modal lightbox galleries. | [Live Demo](https://rpprudenciado.github.io/Throttle-Therapy-Motorbike-Travel-Blog/) · [Code](https://github.com/rpprudenciado/Throttle-Therapy-Motorbike-Travel-Blog) |
-| **Navig8.tech** | HTML5, CSS3, JavaScript ES6+ | Career roadmap platform helping students navigate 14+ IT specialization tracks with progress tracking. | [Live Demo](https://rpprudenciado.github.io/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions/) · [Code](https://github.com/rpprudenciado/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions) |
-| **Personal Portfolio** | HTML5, CSS3, Flexbox | Responsive portfolio demonstrating CSS Box Model compliance, custom properties, and typography. | [Live Demo](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/) · [Code](https://github.com/rpprudenciado/Personal-Portfolio-Web-Application) |
+| **Throttle Therapy** | HTML5, CSS Grid, Flexbox | Motorbike travel blog featuring responsive route guides, elevation cards, and modal lightbox galleries. | [Live Demo](https://rpprudenciado.github.io/Throttle-Therapy-Motorbike-Travel-Blog/) · [Repository](https://github.com/rpprudenciado/Throttle-Therapy-Motorbike-Travel-Blog) |
+| **Navig8.tech** | HTML5, CSS3, JavaScript ES6+ | Career roadmap platform helping students navigate 14+ IT specialization tracks with progress tracking. | [Live Demo](https://rpprudenciado.github.io/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions/) · [Repository](https://github.com/rpprudenciado/Structured-Career-Roadmap-Platform-To-Support-IT-Specialization-Decisions) |
+| **Personal Portfolio** | HTML5, CSS3, Flexbox | Responsive portfolio demonstrating CSS Box Model compliance, custom properties, and typography. | [Live Demo](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/) · [Repository](https://github.com/rpprudenciado/Personal-Portfolio-Web-Application) |
 
 ### Systems & Data Structures
 | Project | Stack | Description | Collaborator | Links |
 | :--- | :--- | :--- | :---: | :---: |
-| **MotoPulse** | Python 3, CLI | Maintenance engine using a Min-Heap ($O(\log n)$) to prioritize overdue tasks and a LIFO Stack ($O(1)$) for Undo. | Evan Exanes | [Code](https://github.com/rpprudenciado/Motorcycle-Maintenance-Tracker-and-Alert-System) |
-| **Secure Banking System** | Java 11+, Swing, JOptionPane | Desktop banking simulation demonstrating OOP encapsulation, 3-attempt security lockout, and audit logging. | Evan Exanes | [Code](https://github.com/rpprudenciado/Bank-Secure-Banking-System) |
+| **MotoPulse** | Python 3, CLI | Maintenance engine using a Min-Heap ($O(\log n)$) to prioritize overdue tasks and a LIFO Stack ($O(1)$) for Undo. | Evan Exanes | [Repository](https://github.com/rpprudenciado/Motorcycle-Maintenance-Tracker-and-Alert-System) |
+| **Secure Banking System** | Java 11+, Swing, JOptionPane | Desktop banking simulation demonstrating OOP encapsulation, 3-attempt security lockout, and audit logging. | Evan Exanes | [Repository](https://github.com/rpprudenciado/Bank-Secure-Banking-System) |
 
 ---
 

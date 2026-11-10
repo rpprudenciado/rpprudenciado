@@ -1,54 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#100007"/>
-      <stop offset="45%" stop-color="#180212"/>
-      <stop offset="100%" stop-color="#200116"/>
-    </linearGradient>
+    <radialGradient id="floating-glow-dark" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#6E0D39" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#4C0827" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
 
-    <linearGradient id="line-accent-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="divider-dark" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4C0827" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#6E0D39" stop-opacity="0.9"/>
-      <stop offset="50%" stop-color="#E6EBE0" stop-opacity="1"/>
-      <stop offset="75%" stop-color="#6E0D39" stop-opacity="0.9"/>
+      <stop offset="20%" stop-color="#6E0D39" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#E6EBE0" stop-opacity="0.95"/>
+      <stop offset="80%" stop-color="#6E0D39" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#4C0827" stop-opacity="0"/>
     </linearGradient>
-
-    <pattern id="grid-dark" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#E6EBE0" stroke-width="0.5" stroke-opacity="0.04"/>
-    </pattern>
-
-    <radialGradient id="glow-dark" cx="50%" cy="50%" r="55%">
-      <stop offset="0%" stop-color="#6E0D39" stop-opacity="0.22"/>
-      <stop offset="60%" stop-color="#4C0827" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#100007" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="850" height="180" rx="14" fill="url(#bg-dark)"/>
-
-  <!-- Subtle Architectural Grid -->
-  <rect width="850" height="180" rx="14" fill="url(#grid-dark)"/>
-
-  <!-- Ambient Glow -->
-  <ellipse cx="425" cy="90" rx="340" ry="80" fill="url(#glow-dark)"/>
-
-  <!-- Border Frame -->
-  <rect x="1" y="1" width="848" height="178" rx="13" fill="none" stroke="#4C0827" stroke-width="1.2" stroke-opacity="0.55"/>
-
-  <!-- Pill Badge: Specialization -->
-  <g transform="translate(265, 24)">
-    <rect width="320" height="24" rx="12" fill="#200116" fill-opacity="0.75" stroke="#6E0D39" stroke-width="1" stroke-opacity="0.7"/>
-    <text x="160" y="16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="2" fill="#E6EBE0" fill-opacity="0.9">CLOUD SOLUTIONS &amp; SYSTEMS ARCHITECTURE</text>
-  </g>
+  <!-- Ambient Floating Glow (Seamless on GitHub Dark #0d1117) -->
+  <ellipse cx="425" cy="85" rx="380" ry="75" fill="url(#floating-glow-dark)"/>
 
   <!-- Main Name Typography -->
-  <text x="425" y="104" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">Rhona-Mae Prudenciado</text>
+  <text x="425" y="65" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">Rhona-Mae Prudenciado</text>
 
-  <!-- Centered Accent Glow Line -->
-  <line x1="290" y1="122" x2="560" y2="122" stroke="url(#line-accent-dark)" stroke-width="2" stroke-linecap="round"/>
+  <!-- Centered Accent Divider Line -->
+  <line x1="280" y1="85" x2="570" y2="85" stroke="url(#divider-dark)" stroke-width="1.8" stroke-linecap="round"/>
 
-  <!-- Subtitle Coordinates -->
-  <text x="425" y="148" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500" letter-spacing="2" fill="#E6EBE0" fill-opacity="0.65">ASIA PACIFIC COLLEGE · MANILA, PH</text>
+  <!-- Aspiring Cloud Architect (Matching Asia Pacific College styling) -->
+  <text x="425" y="112" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#E6EBE0" fill-opacity="0.92">ASPIRING CLOUD ARCHITECT</text>
+
+  <!-- Asia Pacific College Manila -->
+  <text x="425" y="136" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#E6EBE0" fill-opacity="0.6">ASIA PACIFIC COLLEGE · MANILA, PH</text>
 </svg>
