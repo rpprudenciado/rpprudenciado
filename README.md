@@ -1,16 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=4">
-  <img src="assets/banner-light.svg?v=4" alt="Rhona-Mae Prudenciado" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=5">
+  <img src="assets/banner-light.svg?v=5" alt="Rhona-Mae Prudenciado" width="100%">
 </picture>
-
-<br>
 
 **2nd Year Information Technology Student @ Asia Pacific College, Philippines <sup>PH</sup>**  
 *Specializing in Cloud Computing*
-
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-4C0827?style=for-the-badge)](https://rpprudenciado.github.io/Personal-Portfolio-Web-Application/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhona--Mae_Prudenciado-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rpprudenciado/)
