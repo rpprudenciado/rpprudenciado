@@ -1,24 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 130" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="100%">
   <defs>
-    <!-- High-Saturation 'Brightly Darker' Wine Glow Spanning Full Name & Subtitles -->
-    <radialGradient id="floating-glow-dark" cx="425" cy="62" r="110" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.6 0 0 1 -680 0)">
-      <stop offset="0%" stop-color="#A3124E" stop-opacity="0.82"/>
-      <stop offset="25%" stop-color="#8A0E41" stop-opacity="0.65"/>
-      <stop offset="55%" stop-color="#5E082C" stop-opacity="0.40"/>
-      <stop offset="80%" stop-color="#330417" stop-opacity="0.15"/>
+    <!-- Deep Burgundy Red Radial Glow: Mathematically fades to 0 before canvas edges -->
+    <radialGradient id="floating-glow-dark" cx="425" cy="96" r="75" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.4 0 0 1 -1020 0)">
+      <stop offset="0%" stop-color="#800020" stop-opacity="0.80"/>
+      <stop offset="30%" stop-color="#5B061C" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#3D0312" stop-opacity="0.28"/>
+      <stop offset="80%" stop-color="#200209" stop-opacity="0.08"/>
+      <stop offset="95%" stop-color="#0D1117" stop-opacity="0"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <!-- Full Canvas Rect Base: Seamless Zero-Edge Falloff -->
-  <rect width="850" height="130" fill="url(#floating-glow-dark)"/>
+  <!-- Full Canvas: Gradient drops to 0 opacity well within the 200px bounds (Zero Square Cutoff) -->
+  <rect width="850" height="200" fill="url(#floating-glow-dark)"/>
 
   <!-- Main Name Typography -->
-  <text x="425" y="48" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">Rhona-Mae Prudenciado</text>
+  <text x="425" y="86" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">Rhona-Mae Prudenciado</text>
 
-  <!-- Aspiring Cloud Architect -->
-  <text x="425" y="76" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#E6EBE0" fill-opacity="0.95">ASPIRING CLOUD ARCHITECT</text>
+  <!-- Aspiring Cloud Architect (In-Line Centered) -->
+  <text x="425" y="114" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" fill="#E6EBE0" fill-opacity="0.95">ASPIRING CLOUD ARCHITECT</text>
 
-  <!-- Asia Pacific College Manila -->
-  <text x="425" y="98" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#E6EBE0" fill-opacity="0.75">ASIA PACIFIC COLLEGE · MANILA, PH</text>
+  <!-- Asia Pacific College Manila (In-Line Centered) -->
+  <text x="425" y="134" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="2" fill="#E6EBE0" fill-opacity="0.75">ASIA PACIFIC COLLEGE · MANILA, PH</text>
 </svg>
