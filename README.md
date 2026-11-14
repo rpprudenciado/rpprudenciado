@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=8">
-  <img src="assets/banner-light.svg?v=8" alt="Rhona-Mae Prudenciado" width="100%">
+  <img src="assets/banner-light.svg?v=8" alt="Rhona-Mae Prudenciado" width="150%">
 </picture>
 
 **2nd Year Information Technology Student @ Asia Pacific College, Makati <sup>PH</sup>**  
